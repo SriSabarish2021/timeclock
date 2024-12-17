@@ -1,0 +1,32 @@
+
+#root {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/image/evie-s-kqJfP-lrl-8-unsplash.jpg');
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html{
+  height: 100%;
+  width: 100%;
+}
+body{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content:center ;
+  align-items: center;
+ background-color: rgb(255, 255, 255);
+
+}
